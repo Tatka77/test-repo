@@ -1,5 +1,6 @@
 # test-repo
 Test repository for learning GitHub
 commit
-commit1
-commit2
+commit 1
+commit 2
+commit 3
